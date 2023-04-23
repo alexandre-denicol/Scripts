@@ -18,7 +18,7 @@ variable "subnet_id" {
 
 variable "key_name" {
     #default = "chavessh"
-    default = "ssh-key-boot3"
+    default = "#########"
 }
 
 
